@@ -12,6 +12,7 @@ import { ProductoService } from './inventario/services/producto.service';
 import { PedidoModule } from './pedido/pedido.module';
 
 
+
 @NgModule({
   declarations: [
     ClienteComponent,
@@ -24,7 +25,9 @@ import { PedidoModule } from './pedido/pedido.module';
     AppLayoutModule,
     TableModule,
     InventarioModule,
-    PedidoModule
+    PedidoModule,
+    InventarioModule
+
   ],
 
   providers:[

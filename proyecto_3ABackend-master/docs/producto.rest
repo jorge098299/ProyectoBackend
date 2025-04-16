@@ -11,10 +11,17 @@ Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJwQGhtLmNvbSIsImlkIjoxLCJpYXQiOjE3NDQzMjYyNTcsImV4cCI6MTc0NDMyNzEzN30.8TP6QgOZ0KfPMJuOpAguotRzUO4lO3pkalA6bnEauZY
 
     {
+<<<<<<< HEAD
     "nombre": "MESSI PSG",
     "precio": "9999999",
     "stock": 1,
     "categoriaId": 3
+=======
+    "nombre": "Mouse Gamer",
+    "precio": "125.99",
+    "stock": 55,
+    "categoriaId": 1
+>>>>>>> 31dd618de848c5c8b3ebcb206e7dd33b36e2130f
     }
 
 

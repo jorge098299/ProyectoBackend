@@ -27,6 +27,7 @@ const routes: Routes = [
       {
         path:"pedido/nuevo",
         component:NuevoPedidoComponent
+
       }
     ]
   }
